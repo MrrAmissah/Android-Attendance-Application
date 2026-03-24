@@ -1,0 +1,27 @@
+{
+    "java.home": "C:\\Users\\princ\\Andriod Attendance App\\jdk-17.0.2",
+    "gradle.nestedProjects": true,
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/.gradle": true,
+        "**/build": true,
+        "**/.idea": true,
+        "**/*.apk": false
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/.gradle": true,
+        "**/build": true,
+        "**/.idea": true
+    },
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java",
+        "editor.formatOnSave": false
+    },
+    "terminal.integrated.env.windows": {
+        "JAVA_HOME": "C:\\Users\\princ\\Andriod Attendance App\\jdk-17.0.2"
+    },
+    "terminal.integrated.shellArgs.windows": [],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

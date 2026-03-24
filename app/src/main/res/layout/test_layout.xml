@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioGroup android:id="@id/radioGroup" android:layout_width="250.0dip" android:layout_height="120.0dip" android:weightSum="1.0">
+        <RadioButton android:id="@id/PresentradioButton" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="P" />
+        <RadioButton android:id="@id/AbsentradioButton" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="A" />
+        <Button android:id="@id/attendanceSubmitButton" android:background="@drawable/roundedbutton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Submit" />
+    </RadioGroup>
+</LinearLayout>

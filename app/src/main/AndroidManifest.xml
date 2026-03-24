@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.androidattendancesystem">
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:name="com.android.attendance.context.ApplicationContext"
+        android:theme="@style/AppTheme">
+        
+        <activity
+            android:name="com.android.attendance.activity.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.android.attendance.activity.LoginActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.MenuActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.AddFacultyActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.AddStudentActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.ViewFacultyActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.ViewStudentActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.TestActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.ViewStudentByBranchYear"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.AddAttandanceSessionActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.AddAttendanceActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.ViewAttendanceByFacultyActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        
+        <activity
+            android:name="com.android.attendance.activity.ViewAttendancePerStudentActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+            
+    </application>
+
+</manifest>

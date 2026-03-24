@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Android: Build & Run",
+            "type": "android",
+            "request": "launch",
+            "appPackage": "com.example.androidattendancesystem",
+            "appActivity": "com.android.attendance.activity.MainActivity",
+            "stopOnEntry": false,
+            "logLevel": "verbose",
+            "isStartupActivity": true
+        },
+        {
+            "name": "Gradle: Build APK",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "gradle-build",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Gradle: Build & Install Debug APK",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "gradle-build-install",
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/clg" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="82.0dip" android:layout_marginTop="43.0dip" android:text="Login here.." android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <EditText android:id="@id/editTextpassword" android:background="@drawable/roundedtextview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:ems="10" android:layout_below="@id/textView3" android:layout_alignLeft="@id/textView3" android:inputType="textPassword" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" android:text="Password" android:layout_below="@id/editTextusername" android:layout_alignLeft="@id/editTextusername" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="110.0dip" android:text="Username" android:layout_below="@id/textView1" android:layout_alignLeft="@id/editTextusername" />
+    <EditText android:id="@id/editTextusername" android:background="@drawable/roundedtextview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:ems="10" android:layout_below="@id/textView2" android:layout_centerHorizontal="true">
+        <requestFocus />
+    </EditText>
+    <Spinner android:id="@id/spinnerloginas" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="32.0dip" android:layout_alignLeft="@id/textView2" android:layout_alignBottom="@id/textView2" android:layout_alignParentRight="true" />
+    <Button android:id="@id/buttonlogin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="34.0dip" android:text="Login" android:layout_alignRight="@id/spinnerloginas" android:layout_alignParentBottom="true" />
+</RelativeLayout>

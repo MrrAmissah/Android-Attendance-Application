@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_add_attandance.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/add_attandance.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-xhdpi_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-xhdpi/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-hdpi_roundedtextview.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-hdpi/roundedtextview.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v17_notification_template_lines_media.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v17/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_login.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable_notification_icon_background.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable_notification_bg.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-hdpi_clg.jpg.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-hdpi/clg.jpg"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v17_notification_template_big_media.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v17/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_test_layout.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/test_layout.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_test_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/test_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_view_attendance_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/view_attendance_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/menu_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v17_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v17/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_add_student_attendance.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/add_student_attendance.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-xhdpi_notification_bg_normal.9.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-xhdpi/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v17_notification_template_big_media_custom.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v17/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-v21_notification_action_background.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v17_notification_template_media_custom.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v17/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_notification_media_action.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout___listview_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/__listview_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-xhdpi_notification_bg_low_normal.9.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-xhdpi/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_view_student_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/view_student_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable_notification_bg_low.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-hdpi_calendar_icon.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-hdpi/calendar_icon.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_viewstudent.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/viewstudent.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_notification_media_cancel_action.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-hdpi_roundedbutton.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-hdpi/roundedbutton.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_listview_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/listview_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_view_attendance_list_per_student.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/view_attendance_list_per_student.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_menu.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/menu.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_addstudent.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/addstudent.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_notification_template_part_time.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v17_notification_template_big_media_narrow.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v17/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_view_faculty_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/view_faculty_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-xhdpi_notification_bg_low_pressed.9.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-xhdpi/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/drawable-xhdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/drawable-xhdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v17_notification_template_media.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v17/notification_template_media.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout_addfaculty.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout/addfaculty.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-29:/layout-v21_notification_action.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-31:/layout-v21/notification_action.xml"
+    }
+]
